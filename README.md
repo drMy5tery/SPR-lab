@@ -24,3 +24,9 @@ This directory contains the lab programs and assessments for the SPR course. Bel
 | :--- | :--- | :--- | :--- |
 | **CIA 1** | **Signal Analysis & Reconstruction** | Comprehensive analysis including loading, examining, sampling, and reconstructing speech signals. | [CIA-1](./CIA-1) <br> [Notebook](./CIA-1/2448540_CIA1_SPR.ipynb) |
 | **CIA 3** | **LPC & DTW Analysis** | Advanced analysis combining Linear Predictive Coding and Dynamic Time Warping. | [CIA-3](./CIA-3) <br> [Notebook](./CIA-3/lpc_dtw_analysis.ipynb) |
+
+## End Term Examination (ETE)
+
+| ETE | Topic | Description | Key Files |
+| :--- | :--- | :--- | :--- |
+| **ETE** | **HMM Pronunciation Modeling & Viterbi Decoding** | Analysis of HMM structures for words TALK and FOUR, including left-to-right topology, self-transition probabilities for duration modeling, Viterbi algorithm initialization, induction with maximization, and backtracking for optimal path recovery. | [ETE](./ETE) <br> [Notebook](./ETE/2448540_ETE_SPR.ipynb) |
